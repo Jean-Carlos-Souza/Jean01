@@ -1,2 +1,4 @@
-# Jean01
+# Olá, Mundo.
  Meu primeiro repositório versionado
+
+Tio Guanabara patrocinando mais um programador!
